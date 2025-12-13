@@ -4,7 +4,7 @@ terraform {
 }
 
 locals {
-  env0_mvp = "hello-from-env0-discovery"
+  env0_mvp = "hello-from-env0-discovery-v2"
 }
 
 output "env0_mvp" {
