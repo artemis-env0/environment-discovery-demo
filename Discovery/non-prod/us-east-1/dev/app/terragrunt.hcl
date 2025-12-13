@@ -8,5 +8,5 @@ terraform {
 }
 
 inputs = {
-  name = "mvp"
+  name = "mvp-app0"
 }
