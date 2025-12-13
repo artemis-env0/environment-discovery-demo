@@ -7,5 +7,5 @@ terraform {
 }
 
 inputs = {
-  env_name = "app2"
+  env_name = "app2_aga_changed_this_on_121325_656"
 }
