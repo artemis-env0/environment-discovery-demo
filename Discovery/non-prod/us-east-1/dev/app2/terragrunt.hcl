@@ -7,5 +7,5 @@ terraform {
 }
 
 inputs = {
-  env_name = "app2"
+  env_name = "app2-changed-v1.0.2_by_artem"
 }
